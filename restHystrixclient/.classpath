@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/lib/annotations-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/archaius-core-0.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-configuration-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/lib/guava-11.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/lib/hystrix-core-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/jsr305-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/servo-core-0.4.20.jar"/>
+	<classpathentry kind="lib" path="D:/lib/xstream-1.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/lib/slf4j-api-1.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
