@@ -29,7 +29,7 @@ public class CommandSampleHystrix extends HystrixCommand<String> {
 
     }
     
-    protected  String  onRun() {
+    /*protected  String  onRun() {
 		RestTemplate restTemplate = new RestTemplate();
 		DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 
@@ -50,7 +50,7 @@ public class CommandSampleHystrix extends HystrixCommand<String> {
         return  (" Failure Hello " + name + "!");
 	
     }
-
+*/
     @Override
     protected String run() {
     	//return onRun();
